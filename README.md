@@ -1,0 +1,2 @@
+This repo uses @fluentui-contrib/react-data-grid-react-window@1.0.0 which does not include react-dom depedencies. Wanted to see how pnpm handles
+the 'missing' peer dependency because react-dom is also used as a peer depenency in @fluentui/react-components
